@@ -1,0 +1,41 @@
+@import 'bootstrap/dist/css/bootstrap.css';
+
+nav{
+    background-color:rgba(238, 204, 189, 0.91) ;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.bi{
+    size: 20px;
+}
+
+h1,h2,h3,h4,h5,h6{
+    color: #888b8d;
+}
+
+.navicon{
+    height: 8vh;
+}
+
+main{
+    min-height: 75vh;
+}
+
+#contHome{
+    height: 75vh;
+    background-image: url(/public/img/back.jpg);
+    background-size: cover;
+}
+
+.card{
+    /* min-height: 520px; */
+    width: 18rem;
+    margin: 15px;
+}
+
+.btnServ{
+    background-color: rgb(238, 204, 189, 0.91) ;
+}
+
+
